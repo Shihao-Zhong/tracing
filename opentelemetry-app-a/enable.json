@@ -1,0 +1,13 @@
+{
+  "OpenTelemetryAppA": {
+    "AppAController.entryPointController": 1,
+    "HTTP GET": 1
+  },
+  "OpenTelemetryAppB": {
+    "AppBController.helloControllerMethod": 1,
+    "TestEntityRepository.findAll": 1,
+    "SELECT TestEntity": 1,
+    "SELECT mydb.test_entity": 0,
+    "Transaction.commit": 0
+  }
+}
