@@ -17,8 +17,12 @@ public class AppAController {
     @Autowired
     private RestTemplate restTemplate;
 
+    @Autowired
+    private BService aservice;
+
     @RequestMapping("/test-tracing")
     public String entryPointController() {
+        //aservice.method();
     	HttpHeaders headers = new HttpHeaders();
     	headers.setAccept(Arrays.asList(MediaType.APPLICATION_JSON));
     	HttpEntity<String> entity = new HttpEntity<>(headers);

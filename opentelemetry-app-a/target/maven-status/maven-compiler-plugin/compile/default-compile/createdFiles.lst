@@ -1,5 +1,8 @@
 com/javastaff/tracing/opentelemetrya/Service2.class
 com/javastaff/tracing/opentelemetrya/AStarter.class
 com/javastaff/tracing/opentelemetrya/Service1.class
+com/javastaff/tracing/opentelemetrya/TestEntityRepository.class
+com/javastaff/tracing/opentelemetrya/BService.class
+com/javastaff/tracing/opentelemetrya/TestEntity.class
 com/javastaff/tracing/opentelemetrya/AppConfig.class
 com/javastaff/tracing/opentelemetrya/AppAController.class
