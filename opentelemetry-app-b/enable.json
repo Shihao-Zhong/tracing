@@ -1,7 +1,7 @@
 {
   "OpenTelemetryAppA": {
-    "AppAController.entryPointController": 1,
-    "HTTP GET": 1,
+    "AppAController.entryPointController": 0,
+    "HTTP GET": 0,
     "TestEntityRepository.findAll": 0,
     "SELECT TestEntity": 0,
     "SELECT mydb.test_entity": 0,
